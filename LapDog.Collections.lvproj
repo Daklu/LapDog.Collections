@@ -21,11 +21,11 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="source" Type="Folder">
-			<Item Name="LapDog.Collections.v_.Lists.lvlib" Type="Library" URL="../source/LapDog.Collections.Lists/LapDog.Collections.v_.Lists.lvlib"/>
-			<Item Name="LapDog.Collections.v_.Lists.Implementations.lvlib" Type="Library" URL="../source/LapDog.Collections.Lists.Implementations/LapDog.Collections.v_.Lists.Implementations.lvlib"/>
-			<Item Name="LapDog.Collections.v_.Maps.lvlib" Type="Library" URL="../source/LapDog.Collections.Maps/LapDog.Collections.v_.Maps.lvlib"/>
-			<Item Name="LapDog.Collections.v_.Maps.Implementations.lvlib" Type="Library" URL="../source/LapDog.Collections.Maps.Implementations/LapDog.Collections.v_.Maps.Implementations.lvlib"/>
-			<Item Name="LapDog.Collections.v_.Common.lvlib" Type="Library" URL="../source/LapDog.Collections.Common/LapDog.Collections.v_.Common.lvlib"/>
+			<Item Name="LapDog.Collections.v1.Lists.lvlib" Type="Library" URL="../source/LapDog.Collections.Lists/LapDog.Collections.v1.Lists.lvlib"/>
+			<Item Name="LapDog.Collections.v1.Lists.Implementations.lvlib" Type="Library" URL="../source/LapDog.Collections.Lists.Implementations/LapDog.Collections.v1.Lists.Implementations.lvlib"/>
+			<Item Name="LapDog.Collections.v1.Maps.lvlib" Type="Library" URL="../source/LapDog.Collections.Maps/LapDog.Collections.v1.Maps.lvlib"/>
+			<Item Name="LapDog.Collections.v1.Maps.Implementations.lvlib" Type="Library" URL="../source/LapDog.Collections.Maps.Implementations/LapDog.Collections.v1.Maps.Implementations.lvlib"/>
+			<Item Name="LapDog.Collections.v1.Common.lvlib" Type="Library" URL="../source/LapDog.Collections.Common/LapDog.Collections.v1.Common.lvlib"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
