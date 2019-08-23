@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2010-08-24 07:25:47" Modified_Date="2019-08-11 14:16:31" Creator="v-davsny" Comments="" ID="f2b3ba9769528717e6dc3c7441864788">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2010-08-24 07:25:47" Modified_Date="2019-08-23 13:45:23" Creator="v-davsny" Comments="" ID="7c0daf1a7d998008e176494e133eb09b">
   <Library_General_Settings>
     <Package_File_Name>LapDog_Collections_v1</Package_File_Name>
-    <Library_Version>1.0.0.6</Library_Version>
+    <Library_Version>1.0.0.7</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\builds</Library_Output_Folder>
@@ -272,7 +272,7 @@ A set of classes wrapping native Labview types.</Description>
         <Path>Boxing</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EC002F2E1F3F66F9376AE87B9F482D03</GUID>
+      <GUID>3DE25C0B807B57FE30889DB2782E9941</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -363,7 +363,7 @@ A set of classes wrapping native Labview types.</Description>
         <Path>LapDog.Collections.Lists\ListImp\Remove.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1D177BF70A793133E9E129C9B171DAE8</GUID>
+      <GUID>7EFC6DF1D3C884E4D8B663F06E68A230</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -482,7 +482,7 @@ A set of classes wrapping native Labview types.</Description>
         <Path>LapDog.Collections.Maps\MapImp\Remove.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3764F72FC2D1CC517067CD65465E1C7A</GUID>
+      <GUID>251E32F3E3041D56539F0B102F9CD31A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -573,7 +573,7 @@ A set of classes wrapping native Labview types.</Description>
         <Path>LapDog.Collections.Maps.Implementations\Array</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DDF26F6972A70FA6CEE54B5F8E4D89E9</GUID>
+      <GUID>DF7D1CA2FE6BEC7059501D6DCC244B72</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -636,7 +636,7 @@ A set of classes wrapping native Labview types.</Description>
         <Path>LapDog.Collections.Lists.Implementations\BufferedArray\BufferedArray Constant.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0C04C921E9C2126A5266E18CEE287A77</GUID>
+      <GUID>9494B63663CA69FD24B72AE770511094</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -699,7 +699,7 @@ A set of classes wrapping native Labview types.</Description>
         <Path>LapDog.Collections.Maps.Implementations\Array\Array Constant.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0450A8B1A9AE5514011321DEA21308DF</GUID>
+      <GUID>EE5C81754653A557D8AE85A6BFDC4AA7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -818,7 +818,7 @@ A set of classes wrapping native Labview types.</Description>
         <Path>LapDog.Collections.Lists\ObjectList\ObjectList Constant.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C556B47F3CDE242BB74BB5D64A3A2120</GUID>
+      <GUID>D050AE7E18E60EBAF2A65885B8E9A449</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -937,7 +937,7 @@ A set of classes wrapping native Labview types.</Description>
         <Path>LapDog.Collections.Lists\StringList\StringList Constant.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E703978163622B45DE07823AA7A12C52</GUID>
+      <GUID>3D30E2656742BDF3D8DEF8658CBD61EB</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -1070,7 +1070,7 @@ A set of classes wrapping native Labview types.</Description>
         <Path>LapDog.Collections.Lists.Implementations\BufferedArray\TrimBuffer.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6F4261C0F1267B6AAFFAC8F94CF8B41F</GUID>
+      <GUID>3656F94299F5DCA7D500308B13AFC564</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>5</Parent_Palette_Index>
@@ -1217,7 +1217,7 @@ A set of classes wrapping native Labview types.</Description>
         <Path>LapDog.Collections.Maps\ObjectMap\Keys.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>71C182DA3B8A7F16AFC961644456C615</GUID>
+      <GUID>F5832FB410C612D1C34CE69D6DEE2B31</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>5</Parent_Palette_Index>
@@ -1364,7 +1364,7 @@ A set of classes wrapping native Labview types.</Description>
         <Path>LapDog.Collections.Maps\StringMap\Values.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6706F37E4EB2ECF2800042EBC9B4B6A2</GUID>
+      <GUID>E8CBD935B2603252463AF4B01366BB47</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -1483,7 +1483,7 @@ A set of classes wrapping native Labview types.</Description>
         <Path>LapDog.Collections.Maps.Implementations\Array\Values.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7708E55A5F3990A982380CCED33278F6</GUID>
+      <GUID>D20B89CC595489F4BBC3F9F96977AA72</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1756,7 +1756,7 @@ A set of classes wrapping native Labview types.</Description>
         <Path>LapDog.Collections.Common\Variant\Variant Constant.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>61674F94FA3BEAC04EE031794A7595B0</GUID>
+      <GUID>36147A82740DABECE242CCD8EFFD7942</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -1819,7 +1819,7 @@ A set of classes wrapping native Labview types.</Description>
         <Path>Boxes</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>30D80DFE7A8FDED42CB1C7AF0EB2F6A5</GUID>
+      <GUID>FDB98D4F73B119F01065FE57E0CEAEE2</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1896,7 +1896,7 @@ A set of classes wrapping native Labview types.</Description>
         <Path>LapDog.Collections.Lists.Implementations\BufferedArray\BufferedArray Control.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8116F9A4CA362A2FEC8EF434ABF503F3</GUID>
+      <GUID>D3FF416C9D342571AADC9617952D698E</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1962,7 +1962,7 @@ A set of classes wrapping native Labview types.</Description>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Array Constant.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>Array Control.ctl</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>true</is_Merge_VI>
         <Position>
@@ -1970,10 +1970,10 @@ A set of classes wrapping native Labview types.</Description>
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>LapDog.Collections.Maps.Implementations\Array\Array Constant.vi</Path>
+        <Path>LapDog.Collections.Maps.Implementations\Array\Array Control.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>17BC5D964D2BE1A289AF590830D00A7D</GUID>
+      <GUID>61932BD3D362E9474F83CA894219B7D9</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2078,7 +2078,7 @@ A set of classes wrapping native Labview types.</Description>
         <Path>LapDog.Collections.Common\Variant\Variant Control.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2C322C44D7ACE5E847EE41BFE01EE069</GUID>
+      <GUID>7E8F548FF6448512AB9A0354AECDFD74</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
